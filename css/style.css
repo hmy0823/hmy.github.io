@@ -1,0 +1,124 @@
+body{
+    width:60%; 
+/*    width of the navigation bar */
+    margin:0 auto;
+    font-family: 'Oxygen', sans-serif;
+    color:darkslategray;
+   
+}
+
+nav {
+    position: fixed;
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+	background-color: white;
+    top: 0;   
+    z-index: 9999;
+    height: 50px;
+    text-align: center;  
+}
+
+
+nav li {
+    list-style: none;
+    display : inline-block;
+    padding: 0px 50px; 
+}   
+
+nav li a{
+    margin-left: auto;
+    margin-right: auto;
+    text-decoration: none;
+    color: lightslategray;
+}
+
+nav li a:hover {
+    color: powderblue;
+}
+
+
+
+#photo img {
+    
+    margin-top: 100px;
+    border-radius: 50%;  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container {
+    text-align: center;
+    color:dimgrey;
+    
+    
+}
+.container p{
+    width: 90%;
+    text-align: center;
+     margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+
+.footer {
+    margin-top: 70px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+   
+}
+
+.footer li {
+    list-style: none;
+    display : inline-block;
+    padding: 20px 50px; 
+    text-align: center;
+   
+    
+}
+
+.footer li p{
+    margin-top: 0;
+    color: lightslategray;
+
+}
+/*For the project page*/
+.projects{
+margin-top: 130px;
+margin-left: auto;
+margin-right: auto;
+}
+.projects h4{
+font-family: 'Oxygen', sans-serif;
+color: lightslategray;
+ text-align: center;
+
+}
+
+
+.image-wrapper
+{
+margin-top: 30px;
+text-align: center;
+position: relative;
+}
+
+
+.scale-image
+{
+display: block;
+width: auto;
+max-width: 75%;
+/*Center an image*/
+margin-left: auto;
+margin-right: auto;
+}
+
+
+
+
+
