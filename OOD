@@ -1,0 +1,30 @@
+
+https://gist.github.com/vasanthk/485d1c25737e8e72759f 
+Object Oriented Design
+Design a Parking Lot. (Amazon)
+Design a Car Dealership. Test Battery, Test Moonroof... (Amazon)
+Design a car renting system, including reserving a car, checking in and checking out. consider all the following cases: reserve a car, then check out the car successfully; reserve a car, but the car is sold out before you check out... (Amazon)
+Design an Elevator system. (Amazon)
+Design a Vending Machine. (Amazon)
+Design a Card Deck and Card Game. (Amazon) Mitbbs
+Design a Chess Game. pdf
+Design a Jigsaw Puzzle Game.
+Design a Zoo system.
+Design a Multimedia Cookbook (MS)
+OOD of a general messaging system aka publish-subscribe (observer pattern) (Amazon) Design the classes and object for a file system. (Amazon)
+How do you represent the following expression in "class design": (5*3)+(4/2) ? How would an algorithm that computes the value of this expression work? (Amazon)
+How would you design the software that runs on an ATM machine? The software should support operations such as checking balance, transfer funds from one account to another, deposits and withdrawals. (Amazon)
+Design: How would you implement scoreboards for different games played on Xbox Live? DB, API, ... (MS)
+Design a library for writing card games. (Google)
+
+System and Software Design
+Design an online reader system. (Amazon) Design an online chat room.
+Design an online poker room. (Amazon) Design an online messenger.
+Design an online reservation system (air ticket, restaurant/hotel reservation etc) (Amazon) Design a Hotel reservation system which will support the following functions.
+Design a voice conferencing system (Amazon)
+a) User will get a list of all different types of rooms.
+b) User selects a room type & check the room availabilty between the specified dates.
+c) User Makes Reservation.
+[Discussed about "locking" the room availbilty or not in case if user wants to proceed with reservation]
+(Amazon)
+Design a software for a restaurant (Amazon)
